@@ -18,4 +18,4 @@
 			<button type="submit" class="btn-login text-center">LOG IN</button>
 		</form>
 	</div>
-	</div>
+</div>
