@@ -20,4 +20,4 @@
 	<link rel="stylesheet" href="<?php echo SERVERURL; ?>vistas/css/jquery.mCustomScrollbar.css">
 	
 	<!-- General Styles -->
-	<link rel="stylesheet" href="vistas/css/style.css">
+	<link rel="stylesheet" href="<?php echo SERVERURL; ?>vistas/css/style.css">
